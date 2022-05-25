@@ -1,0 +1,27 @@
+.card {
+  text-align: center;
+}
+.card .card-title {
+  text-align: left;
+  font-weight: lighter;
+}
+
+.card .card-value {
+  font-size: 2rem;
+}
+
+.card .card-target {
+  font-size: 1rem;
+  font-weight: lighter;
+}
+
+.card .down {
+  color: red
+}
+
+.card .up {
+  color: green
+}
+.card .mid {
+  color: rgb(10, 47, 195)
+}
